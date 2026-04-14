@@ -4,3 +4,5 @@ torchvision
 pillow
 python-multipart
 uvicorn[standard]
+numpy
+gunicorn
